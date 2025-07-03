@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![OCR-F Banner](https://via.placeholder.com/800x200/3b82f6/ffffff?text=OCR-F+Donation+Processing+System)
-
 [![Next.js](https://img.shields.io/badge/Next.js-14+-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Tesseract.js](https://img.shields.io/badge/Tesseract.js-5.0+-green?style=for-the-badge&logo=tesseract)](https://tesseract.projectnaptha.com/)
@@ -11,7 +9,7 @@
 
 *Revolutionizing donation form processing with AI-powered OCR technology*
 
-[🚀 Live Demo](#) • [📖 Documentation](#features) • [🛠️ Installation](#installation) • [🤝 Contributing](#contributing)
+ • [📖 Documentation](#features) • [🛠️ Installation](#installation) • [🤝 Contributing](#contributing)
 
 </div>
 
@@ -360,7 +358,6 @@ git push origin feature/amazing-feature
 ### **Getting Help**
 - 📖 **Documentation**: Check this README and inline code comments
 - 🐛 **Bug Reports**: [Create an issue](https://github.com/Yassine-xflash/ocrfunds.github.io/issues)
-- 💡 **Feature Requests**: [Start a discussion](https://github.com/Yassine-xflash/ocrfunds.github.io/discussions)
 
 ### **Frequently Asked Questions**
 
@@ -380,7 +377,7 @@ A: All processing happens locally in your browser. No data is sent to external s
 
 ## 📄 **License**
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the bellow file for details.
 
 ```
 MIT License
@@ -406,7 +403,6 @@ copies or substantial portions of the Software.
 - **Next.js Team**: For the incredible React framework
 - **Shadcn**: For the beautiful UI component library
 - **Tailwind CSS**: For the utility-first CSS framework
-- **Open Source Community**: For inspiration and contributions
 
 ---
 
@@ -440,6 +436,6 @@ If you find OCR-F helpful, please consider giving us a star ⭐
 
 [![GitHub stars](https://img.shields.io/github/stars/Yassine-xflash/ocrfunds.github.io?style=social)](https://github.com/Yassine-xflash/ocrfunds.github.io/stargazers)
 
-**Built with ❤️ by the Yassine**
+**Built with ❤️ by  Yassine**
 
 </div>
